@@ -2,7 +2,7 @@
 
 This project aimed to refine coupon targeting strategies by analyzing customer response based on acquisition channel and purchase history. Researchers designed an experiment targeting two specific customer segments:
 * Segment A: Acquired through Instagram with two or fewer prior purchases.
-* Segment B (proposed later): Acquired through Facebook with two or fewer prior purchases.
+* Segment B: Acquired through Facebook with two or fewer prior purchases.
 
 **Key Findings:**
 * **Randomization Check:** The experiment ensured fair comparison by confirming no statistical differences in acquisition channel or pre-experiment purchase counts between treatment and control groups.
@@ -12,7 +12,7 @@ This project aimed to refine coupon targeting strategies by analyzing customer r
 * Impact on Revenue: While there was an increase in the average revenue for Segment A after receiving the coupon, the effect wasn't statistically significant, suggesting some uncertainty.
 * Demographic Targeting: Segment A differed significantly from the overall customer base in terms of gender and income composition.
 
-**Segment B Analysis (proposed later):**
+**Segment B Analysis:**
 * Revenue Increase: Compared to Segment A, customers in Segment B (Facebook users) exhibited a larger positive increase in revenue when receiving the coupon.
 
 **Overall Insights:**
